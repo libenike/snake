@@ -1,3 +1,1 @@
 cmake_minimum_required(VERSION 3.16.4)
-
-add_subdirectory(third_party)
